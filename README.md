@@ -1,18 +1,18 @@
-## Bu Projede Yapılan İşlemler
+# Bu Projede Yapılan İşlemler
 
-# 1. Gri Tonlama Görüntü Histogramı
+## 1. Gri Tonlama Görüntü Histogramı
 * Görüntünün parlaklık seviyelerinin dağılımını görselleştirmek için histogram analizi yapılmıştır.
 
-# 2. K-Means Yoğunluk Tabanlı Segmentasyon (Intensity K-Means)
+## 2. K-Means Yoğunluk Tabanlı Segmentasyon (Intensity K-Means)
 * Görüntüdeki piksel yoğunluklarına göre K-Means algoritması kullanılarak segmentasyon yapılmıştır.
 
-# 3. Mahalanobis Tabanlı Segmentasyon (K-Means Mahalanobis)
+## 3. Mahalanobis Tabanlı Segmentasyon (K-Means Mahalanobis)
 * Mahalanobis mesafesi kullanılarak piksellerin benzerliklerine göre segmentasyon işlemi gerçekleştirilmiştir.
 
-# 4. Mahalanobis Tabanlı Segmentasyon (K-Means Mahalanobis)
+## 4. Mahalanobis Tabanlı Segmentasyon (K-Means Mahalanobis)
 * Çok boyutlu (ND) bir veri kümesi üzerinden Mahalanobis tabanlı K-Means segmentasyonu uygulanmıştır.
 
-# 5. Edge Detection (Kenar Bulma) İşlemi
+## 5. Edge Detection (Kenar Bulma) İşlemi
 * Görüntüdeki nesnelerin sınırlarını tespit etmek için kenar bulma algoritmaları kullanılmıştır.
 
 
